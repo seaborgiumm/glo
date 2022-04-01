@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    background-color: black;
+}
+.main {
+    margin: auto;
+    width: 919px;
+    height: 1280px;
+    background: url("img/backg.jpg");
+    color: lavenderblush;
+}
+.intro {
+    margin-top: 0px;
+    padding-top: 100px;
+    margin-left: 270px;
+    font-size: 200px;
+    font-weight: lighter;
+    letter-spacing: 3px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    font-size: 50px;
+    padding: 0px;
+}
+.hyper{
+    margin-left: 200px;
+}
+.pro{
+    margin-left: auto;
+    margin-right: 200px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+a:hover{
+    color: dimgrey;
+}
+.products{
+    display: flex;
+}
+img{
+    height: 300px;
+    border-radius: 1ch;
+}
+.hph{
+    margin-left: 120px;
+}
+.pph{
+    margin-left: auto;
+    margin-right: 120px;
+
